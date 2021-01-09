@@ -1,0 +1,13 @@
+C:\Users\azizg\source\repos\Backtracking\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.exe
+C:\Users\azizg\source\repos\Backtracking\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.deps.json
+C:\Users\azizg\source\repos\Backtracking\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.runtimeconfig.json
+C:\Users\azizg\source\repos\Backtracking\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.runtimeconfig.dev.json
+C:\Users\azizg\source\repos\Backtracking\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.dll
+C:\Users\azizg\source\repos\Backtracking\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.pdb
+C:\Users\azizg\source\repos\Backtracking\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.csprojAssemblyReference.cache
+C:\Users\azizg\source\repos\Backtracking\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.AssemblyInfoInputs.cache
+C:\Users\azizg\source\repos\Backtracking\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.AssemblyInfo.cs
+C:\Users\azizg\source\repos\Backtracking\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.csproj.CoreCompileInputs.cache
+C:\Users\azizg\source\repos\Backtracking\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.dll
+C:\Users\azizg\source\repos\Backtracking\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.pdb
+C:\Users\azizg\source\repos\Backtracking\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.genruntimeconfig.cache
